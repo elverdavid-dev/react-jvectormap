@@ -8,6 +8,8 @@
 
 A simple wrapper for [jvectormap](http://jvectormap.com/)
 
+supports react 19
+
 ## Quick Start
 
 `npm install --save @react-jvectormap/core jquery`
